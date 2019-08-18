@@ -1,0 +1,4 @@
+
+Content from parent process
+
+Content from child process
